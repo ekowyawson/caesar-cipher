@@ -79,7 +79,7 @@ source .venv/bin/activate
 pytest
 ```
 
-### Contribution
+### Contributors
 
 - Stephanie G Johnson
 - Latherio Kidd
